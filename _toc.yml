@@ -1,0 +1,102 @@
+# Synthesized table of contents for import into ALPS.
+# The upstream repository is a notebook collection with no Jupyter Book TOC;
+# this file gives it a book structure without altering any lesson content.
+
+format: jb-book
+root: README
+parts:
+  - caption: "Introduction"
+    chapters:
+      - file: 1-Introduction/README
+      - file: 1-Introduction/01-defining-data-science/README
+        sections:
+          - file: 1-Introduction/01-defining-data-science/assignment
+          - file: 1-Introduction/01-defining-data-science/notebook
+      - file: 1-Introduction/02-ethics/README
+        sections:
+          - file: 1-Introduction/02-ethics/assignment
+      - file: 1-Introduction/03-defining-data/README
+        sections:
+          - file: 1-Introduction/03-defining-data/assignment
+      - file: 1-Introduction/04-stats-and-probability/README
+        sections:
+          - file: 1-Introduction/04-stats-and-probability/assignment
+          - file: 1-Introduction/04-stats-and-probability/assignment
+          - file: 1-Introduction/04-stats-and-probability/notebook
+  - caption: "Working With Data"
+    chapters:
+      - file: 2-Working-With-Data/README
+      - file: 2-Working-With-Data/05-relational-databases/README
+        sections:
+          - file: 2-Working-With-Data/05-relational-databases/assignment
+      - file: 2-Working-With-Data/06-non-relational/README
+        sections:
+          - file: 2-Working-With-Data/06-non-relational/assignment
+      - file: 2-Working-With-Data/07-python/README
+        sections:
+          - file: 2-Working-With-Data/07-python/assignment
+          - file: 2-Working-With-Data/07-python/notebook-covidspread
+          - file: 2-Working-With-Data/07-python/notebook-papers
+          - file: 2-Working-With-Data/07-python/notebook
+      - file: 2-Working-With-Data/08-data-preparation/README
+        sections:
+          - file: 2-Working-With-Data/08-data-preparation/assignment
+          - file: 2-Working-With-Data/08-data-preparation/assignment
+          - file: 2-Working-With-Data/08-data-preparation/notebook
+  - caption: "Data Visualization"
+    chapters:
+      - file: 3-Data-Visualization/README
+      - file: 3-Data-Visualization/09-visualization-quantities/README
+        sections:
+          - file: 3-Data-Visualization/09-visualization-quantities/assignment
+          - file: 3-Data-Visualization/09-visualization-quantities/notebook
+      - file: 3-Data-Visualization/10-visualization-distributions/README
+        sections:
+          - file: 3-Data-Visualization/10-visualization-distributions/assignment
+          - file: 3-Data-Visualization/10-visualization-distributions/notebook
+      - file: 3-Data-Visualization/11-visualization-proportions/README
+        sections:
+          - file: 3-Data-Visualization/11-visualization-proportions/assignment
+          - file: 3-Data-Visualization/11-visualization-proportions/notebook
+      - file: 3-Data-Visualization/12-visualization-relationships/README
+        sections:
+          - file: 3-Data-Visualization/12-visualization-relationships/assignment
+          - file: 3-Data-Visualization/12-visualization-relationships/notebook
+      - file: 3-Data-Visualization/13-meaningful-visualizations/README
+        sections:
+          - file: 3-Data-Visualization/13-meaningful-visualizations/assignment
+          - file: 3-Data-Visualization/13-meaningful-visualizations/correlation-analysis
+  - caption: "Data Science Lifecycle"
+    chapters:
+      - file: 4-Data-Science-Lifecycle/README
+      - file: 4-Data-Science-Lifecycle/14-Introduction/README
+        sections:
+          - file: 4-Data-Science-Lifecycle/14-Introduction/assignment
+          - file: 4-Data-Science-Lifecycle/14-Introduction/notebook
+      - file: 4-Data-Science-Lifecycle/15-analyzing/README
+        sections:
+          - file: 4-Data-Science-Lifecycle/15-analyzing/assignment
+          - file: 4-Data-Science-Lifecycle/15-analyzing/assignment
+          - file: 4-Data-Science-Lifecycle/15-analyzing/notebook
+      - file: 4-Data-Science-Lifecycle/16-communication/README
+        sections:
+          - file: 4-Data-Science-Lifecycle/16-communication/assignment
+  - caption: "Data Science In Cloud"
+    chapters:
+      - file: 5-Data-Science-In-Cloud/README
+      - file: 5-Data-Science-In-Cloud/17-Introduction/README
+        sections:
+          - file: 5-Data-Science-In-Cloud/17-Introduction/assignment
+      - file: 5-Data-Science-In-Cloud/18-Low-Code/README
+        sections:
+          - file: 5-Data-Science-In-Cloud/18-Low-Code/assignment
+      - file: 5-Data-Science-In-Cloud/19-Azure/README
+        sections:
+          - file: 5-Data-Science-In-Cloud/19-Azure/assignment
+          - file: 5-Data-Science-In-Cloud/19-Azure/notebook
+  - caption: "Data Science In Wild"
+    chapters:
+      - file: 6-Data-Science-In-Wild/README
+      - file: 6-Data-Science-In-Wild/20-Real-World-Examples/README
+        sections:
+          - file: 6-Data-Science-In-Wild/20-Real-World-Examples/assignment
