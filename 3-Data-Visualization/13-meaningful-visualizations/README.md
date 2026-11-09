@@ -19,6 +19,8 @@ In this lesson, you will review:
 
 ## [Pre-Lecture Quiz](https://ff-quizzes.netlify.app/en/ds/quiz/24)
 
+> **On Alps:** Take this quiz in the book: it is the first part of [Quiz: Making Meaningful Visualizations](alps-quiz-13.ipynb), this lesson's last page.
+
 ## Choose the right chart type
 
 In previous lessons, you experimented with building all kinds of interesting data visualizations using Matplotlib and Seaborn for charting. In general, you can select the [right kind of chart](https://chartio.com/learn/charts/how-to-select-a-data-vizualization/) for the question you are asking using this table:
@@ -111,6 +113,8 @@ You will complete a web app that will display an animated view of this social ne
 
 ## Project: Build a chart to show a network using D3.js
 
+> **On Alps:** This project is a web app built with Node.js and npm on your own computer; it does not run in this book.
+
 > This lesson folder includes a `solution` folder where you can find the completed project, for your reference.
 
 1. Follow the instructions in the README.md file in the starter folder's root. Make sure you have NPM and Node.js running on your machine before installing your project's dependencies.
@@ -146,6 +150,8 @@ Run your app from the terminal (npm run serve) and enjoy the visualization!
 Take a tour of the internet to discover deceptive visualizations. How does the author fool the user, and is it intentional? Try correcting the visualizations to show how they should look.
 
 ## [Post-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/25)
+
+> **On Alps:** Take this quiz in the book: it is the second part of [Quiz: Making Meaningful Visualizations](alps-quiz-13.ipynb), this lesson's last page.
 
 ## Review & Self Study
 

@@ -1,5 +1,7 @@
 # Soda Profits
 
+> **On Alps:** You can do this assignment in your browser, on [Assignment notebook: Soda Profits](alps-assignment-06.ipynb), in Python.
+
 ## Instructions
 
 The [Coca Cola Co spreadsheet](CocaColaCo.xlsx) is missing some calculations. Your task is to: 

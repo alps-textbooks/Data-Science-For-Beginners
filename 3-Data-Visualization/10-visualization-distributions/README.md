@@ -7,6 +7,9 @@
 In the previous lesson, you learned some interesting facts about a dataset about the birds of Minnesota. You found some erroneous data by visualizing outliers and looked at the differences between bird categories by their maximum length.
 
 ## [Pre-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/18)
+
+> **On Alps:** Take this quiz in the book: it is the first part of [Quiz: Visualizing Distributions](alps-quiz-10.ipynb), this lesson's last page.
+
 ## Explore the birds dataset
 
 Another way to dig into data is by looking at its distribution, or how the data is organized along an axis. Perhaps, for example, you'd like to learn about the general distribution, for this dataset, of the maximum wingspan or maximum body mass for the birds of Minnesota. 
@@ -193,6 +196,8 @@ Perhaps it's worth researching whether the cluster of 'Vulnerable' birds accordi
 Histograms are a more sophisticated type of chart than basic scatterplots, bar charts, or line charts. Go on a search on the internet to find good examples of the use of histograms. How are they used, what do they demonstrate, and in what fields or areas of inquiry do they tend to be used?
 
 ## [Post-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/19)
+
+> **On Alps:** Take this quiz in the book: it is the second part of [Quiz: Visualizing Distributions](alps-quiz-10.ipynb), this lesson's last page.
 
 ## Review & Self Study
 

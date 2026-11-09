@@ -29,6 +29,8 @@ Table of contents:
   
 ## [Pre-Lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/34)
 
+> **On Alps:** Take this quiz in the book: it is the first part of [Quiz: Data Science in the Cloud: The "Low code/No code" way](alps-quiz-18.ipynb), this lesson's last page.
+
 ## 1. Introduction
 ### 1.1 What is Azure Machine Learning?
 
@@ -89,6 +91,9 @@ Kaggle has made a [Heart Failure dataset](https://www.kaggle.com/andrewmvd/heart
 Once you have the dataset, we can start the project in Azure.
 
 ## 2. Low code/No code training of a model in Azure ML Studio
+
+> **On Alps:** The steps from here on run in Azure Machine Learning Studio, with an Azure subscription of your own, which is charged for the storage and compute you use. Nothing in them runs in this book: read along, or follow them in Azure.
+
 ### 2.1 Create an Azure ML workspace
 To train a model in Azure ML you first need to create an Azure ML workspace. The workspace is the top-level resource for Azure Machine Learning, providing a centralized place to work with all the artifacts you create when you use Azure Machine Learning. The workspace keeps a history of all training runs, including logs, metrics, output, and a snapshot of your scripts. You use this information to determine which training run produces the best model. [Learn more](https://docs.microsoft.com/azure/machine-learning/concept-workspace?WT.mc_id=academic-77958-bethanycheum&ocid=AID3041109)
 
@@ -327,6 +332,8 @@ Congratulations! You just consumed the model deployed and trained it on Azure ML
 Look closely at the model explanations and details that AutoML generated for the top models. Try to understand why the best model is better than the other ones. What algorithms were compared? What are the differences between them? Why is the best one performing better in this case?
 
 ## [Post-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/35)
+
+> **On Alps:** Take this quiz in the book: it is the second part of [Quiz: Data Science in the Cloud: The "Low code/No code" way](alps-quiz-18.ipynb), this lesson's last page.
 
 ## Review & Self Study
 

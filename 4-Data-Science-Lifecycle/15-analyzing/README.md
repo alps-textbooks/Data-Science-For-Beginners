@@ -6,6 +6,8 @@
 
 ## [Pre-Lecture Quiz](https://ff-quizzes.netlify.app/en/ds/quiz/28)
 
+> **On Alps:** Take this quiz in the book: it is the first part of [Quiz: The Data Science Lifecycle: Analyzing](alps-quiz-15.ipynb), this lesson's last page.
+
 Analyzing in the data lifecycle confirms that the data can answer the questions that are proposed or solving a particular problem. This step can also focus on confirming a model is correctly addressing these questions and problems. This lesson is focused on Exploratory Data Analysis or EDA, which are techniques for defining features and relationships within the data and can be used to prepare the data for modeling. 
 
  We'll be using an example dataset from [Kaggle](https://www.kaggle.com/balaka18/email-spam-classification-dataset-csv/version/1) to show how this can be applied with Python and the Pandas library. This dataset contains a count of some common words found in emails, the sources of these emails are anonymous. Use the [notebook](notebook.ipynb) in this directory to follow along.
@@ -38,6 +40,8 @@ You don’t have to wait until the data is thoroughly cleaned and analyzed to st
 All the topics in this lesson can help identify missing or inconsistent values, but Pandas provides functions to check for some of these. [isna() or isnull()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.isna.html) can check for missing values. One important piece of exploring for these values within your data is to explore why they ended up that way in the first place. This can help you decide on what [actions to take to resolve them](/2-Working-With-Data/08-data-preparation/notebook.ipynb).
 
 ## [Post-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/29)
+
+> **On Alps:** Take this quiz in the book: it is the second part of [Quiz: The Data Science Lifecycle: Analyzing](alps-quiz-15.ipynb), this lesson's last page.
 
 ## Assignment
 

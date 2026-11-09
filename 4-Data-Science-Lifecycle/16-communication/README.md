@@ -6,6 +6,8 @@
 
 ## [Pre-Lecture Quiz](https://ff-quizzes.netlify.app/en/ds/quiz/30)
 
+> **On Alps:** Take this quiz in the book: it is the first part of [Quiz: The Data Science Lifecycle: Communication](alps-quiz-16.ipynb), this lesson's last page.
+
 Test your knowledge of what's to come with the Pre-Lecture Quiz above!
 
 # Introduction
@@ -212,6 +214,8 @@ If Emerson took approach #2, it is much more likely that the team leads will tak
 [1. Communicating Data - Communicating Data with Tableau [Book] (oreilly.com)](https://www.oreilly.com/library/view/communicating-data-with/9781449372019/ch01.html)
 
 ## [Post-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/31)
+
+> **On Alps:** Take this quiz in the book: it is the second part of [Quiz: The Data Science Lifecycle: Communication](alps-quiz-16.ipynb), this lesson's last page.
 
 Review what you've just learned with the Post-Lecture Quiz above!
 

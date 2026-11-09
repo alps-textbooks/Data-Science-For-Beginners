@@ -10,6 +10,8 @@ In this lesson, you will learn the fundamental principles of the Cloud, then you
 
 ## [Pre-Lecture Quiz](https://ff-quizzes.netlify.app/en/ds/quiz/32)
 
+> **On Alps:** Take this quiz in the book: it is the first part of [Quiz: Introduction to Data Science in the Cloud](alps-quiz-17.ipynb), this lesson's last page.
+
 
 ## What is the Cloud?
 
@@ -93,6 +95,8 @@ Sources:
 ## Post-Lecture Quiz
 
 ## [Post-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/33)
+
+> **On Alps:** Take this quiz in the book: it is the second part of [Quiz: Introduction to Data Science in the Cloud](alps-quiz-17.ipynb), this lesson's last page.
 
 ## Assignment
 

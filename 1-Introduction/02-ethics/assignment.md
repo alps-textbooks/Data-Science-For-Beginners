@@ -1,5 +1,7 @@
 ## Write A Data Ethics Case Study
 
+> **On Alps:** Write your answers in the book, on [Your answers: Write A Data Ethics Case Study](alps-assignment-02.ipynb).
+
 ## Instructions
 
 You've learned about various [Data Ethics Challenges](README.md#2-ethics-challenges) and seen some examples of [Case Studies](README.md#3-case-studies) reflecting data ethics challenges in real-world contexts.

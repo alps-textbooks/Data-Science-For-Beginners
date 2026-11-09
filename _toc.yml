@@ -1,6 +1,15 @@
 # Synthesized table of contents for import into ALPS.
 # The upstream repository is a notebook collection with no Jupyter Book TOC;
 # this file gives it a book structure without altering any lesson content.
+# Each lesson's worked solution is listed last in that lesson with
+# `audience: instructor`: teachers see it, students never do, and no
+# student page changes its number.
+# Before them come the pages this edition adds to a lesson: where its
+# assignment asks for written answers or uses a data file, a page to
+# answer it in the browser (alps-assignment-NN), then the lesson's
+# quiz questions (alps-quiz-NN). They follow every page the lesson
+# already had, so no page is renumbered, and a student page's stored
+# number is the number it is shown with.
 
 format: jb-book
 root: README
@@ -12,35 +21,70 @@ parts:
         sections:
           - file: 1-Introduction/01-defining-data-science/assignment
           - file: 1-Introduction/01-defining-data-science/notebook
+          - file: 1-Introduction/01-defining-data-science/alps-assignment-01
+            title: "Your answers: Data Science Scenarios"
+          - file: 1-Introduction/01-defining-data-science/alps-quiz-01
+            title: "Quiz: Defining Data Science"
+          - file: 1-Introduction/01-defining-data-science/solution/notebook
+            title: "Solution: Analyzing Text about Data Science"
+            audience: instructor
+          - file: 1-Introduction/01-defining-data-science/solution/assignment
+            title: "Solution: Data Science Scenarios (sample answer)"
+            audience: instructor
       - file: 1-Introduction/02-ethics/README
         sections:
           - file: 1-Introduction/02-ethics/assignment
+          - file: 1-Introduction/02-ethics/alps-assignment-02
+            title: "Your answers: Write A Data Ethics Case Study"
+          - file: 1-Introduction/02-ethics/alps-quiz-02
+            title: "Quiz: Introduction to Data Ethics"
       - file: 1-Introduction/03-defining-data/README
         sections:
           - file: 1-Introduction/03-defining-data/assignment
+          - file: 1-Introduction/03-defining-data/alps-assignment-03
+            title: "Your answers: Classifying Datasets"
+          - file: 1-Introduction/03-defining-data/alps-quiz-03
+            title: "Quiz: Defining Data"
       - file: 1-Introduction/04-stats-and-probability/README
         sections:
           - file: 1-Introduction/04-stats-and-probability/assignment
           - file: 1-Introduction/04-stats-and-probability/notebook
+          - file: 1-Introduction/04-stats-and-probability/alps-quiz-04
+            title: "Quiz: A Brief Introduction to Statistics and Probability"
+          - file: 1-Introduction/04-stats-and-probability/solution/assignment
+            title: "Solution: Small Diabetes Study assignment"
+            audience: instructor
   - caption: "Working With Data"
     chapters:
       - file: 2-Working-With-Data/README
       - file: 2-Working-With-Data/05-relational-databases/README
         sections:
           - file: 2-Working-With-Data/05-relational-databases/assignment
+          - file: 2-Working-With-Data/05-relational-databases/alps-assignment-05
+            title: "Assignment notebook: Displaying airport data"
+          - file: 2-Working-With-Data/05-relational-databases/alps-quiz-05
+            title: "Quiz: Working with Data: Relational Databases"
       - file: 2-Working-With-Data/06-non-relational/README
         sections:
           - file: 2-Working-With-Data/06-non-relational/assignment
+          - file: 2-Working-With-Data/06-non-relational/alps-assignment-06
+            title: "Assignment notebook: Soda Profits"
+          - file: 2-Working-With-Data/06-non-relational/alps-quiz-06
+            title: "Quiz: Working with Data: Non-Relational Data"
       - file: 2-Working-With-Data/07-python/README
         sections:
           - file: 2-Working-With-Data/07-python/assignment
           - file: 2-Working-With-Data/07-python/notebook-covidspread
           - file: 2-Working-With-Data/07-python/notebook-papers
           - file: 2-Working-With-Data/07-python/notebook
+          - file: 2-Working-With-Data/07-python/alps-quiz-07
+            title: "Quiz: Working with Data: Python and the Pandas Library"
       - file: 2-Working-With-Data/08-data-preparation/README
         sections:
           - file: 2-Working-With-Data/08-data-preparation/assignment
           - file: 2-Working-With-Data/08-data-preparation/notebook
+          - file: 2-Working-With-Data/08-data-preparation/alps-quiz-08
+            title: "Quiz: Working with Data: Data Preparation"
   - caption: "Data Visualization"
     chapters:
       - file: 3-Data-Visualization/README
@@ -48,22 +92,44 @@ parts:
         sections:
           - file: 3-Data-Visualization/09-visualization-quantities/assignment
           - file: 3-Data-Visualization/09-visualization-quantities/notebook
+          - file: 3-Data-Visualization/09-visualization-quantities/alps-quiz-09
+            title: "Quiz: Visualizing Quantities"
+          - file: 3-Data-Visualization/09-visualization-quantities/solution/notebook
+            title: "Solution: Let's learn about birds"
+            audience: instructor
       - file: 3-Data-Visualization/10-visualization-distributions/README
         sections:
           - file: 3-Data-Visualization/10-visualization-distributions/assignment
           - file: 3-Data-Visualization/10-visualization-distributions/notebook
+          - file: 3-Data-Visualization/10-visualization-distributions/alps-quiz-10
+            title: "Quiz: Visualizing Distributions"
+          - file: 3-Data-Visualization/10-visualization-distributions/solution/notebook
+            title: "Solution: Bird distributions"
+            audience: instructor
       - file: 3-Data-Visualization/11-visualization-proportions/README
         sections:
           - file: 3-Data-Visualization/11-visualization-proportions/assignment
           - file: 3-Data-Visualization/11-visualization-proportions/notebook
+          - file: 3-Data-Visualization/11-visualization-proportions/alps-quiz-11
+            title: "Quiz: Visualizing Proportions"
+          - file: 3-Data-Visualization/11-visualization-proportions/solution/notebook
+            title: "Solution: Mushroom Proportions"
+            audience: instructor
       - file: 3-Data-Visualization/12-visualization-relationships/README
         sections:
           - file: 3-Data-Visualization/12-visualization-relationships/assignment
           - file: 3-Data-Visualization/12-visualization-relationships/notebook
+          - file: 3-Data-Visualization/12-visualization-relationships/alps-quiz-12
+            title: "Quiz: Visualizing Relationships: All About Honey 🍯"
+          - file: 3-Data-Visualization/12-visualization-relationships/solution/notebook
+            title: "Solution: Visualizing Honey Production"
+            audience: instructor
       - file: 3-Data-Visualization/13-meaningful-visualizations/README
         sections:
           - file: 3-Data-Visualization/13-meaningful-visualizations/assignment
           - file: 3-Data-Visualization/13-meaningful-visualizations/correlation-analysis
+          - file: 3-Data-Visualization/13-meaningful-visualizations/alps-quiz-13
+            title: "Quiz: Making Meaningful Visualizations"
   - caption: "Data Science Lifecycle"
     chapters:
       - file: 4-Data-Science-Lifecycle/README
@@ -71,32 +137,54 @@ parts:
         sections:
           - file: 4-Data-Science-Lifecycle/14-Introduction/assignment
           - file: 4-Data-Science-Lifecycle/14-Introduction/notebook
+          - file: 4-Data-Science-Lifecycle/14-Introduction/alps-assignment-14
+            title: "Your answers: Assessing a Dataset"
+          - file: 4-Data-Science-Lifecycle/14-Introduction/alps-quiz-14
+            title: "Quiz: Introduction to the Data Science Lifecycle"
       - file: 4-Data-Science-Lifecycle/15-analyzing/README
         sections:
           - file: 4-Data-Science-Lifecycle/15-analyzing/assignment
           - file: 4-Data-Science-Lifecycle/15-analyzing/notebook
+          - file: 4-Data-Science-Lifecycle/15-analyzing/alps-quiz-15
+            title: "Quiz: The Data Science Lifecycle: Analyzing"
       - file: 4-Data-Science-Lifecycle/16-communication/README
         sections:
           - file: 4-Data-Science-Lifecycle/16-communication/assignment
+          - file: 4-Data-Science-Lifecycle/16-communication/alps-assignment-16
+            title: "Your answers: Tell a story"
+          - file: 4-Data-Science-Lifecycle/16-communication/alps-quiz-16
+            title: "Quiz: The Data Science Lifecycle: Communication"
   - caption: "Data Science In Cloud"
     chapters:
       - file: 5-Data-Science-In-Cloud/README
       - file: 5-Data-Science-In-Cloud/17-Introduction/README
         sections:
           - file: 5-Data-Science-In-Cloud/17-Introduction/assignment
+          - file: 5-Data-Science-In-Cloud/17-Introduction/alps-assignment-17
+            title: "Your answers: Market Research"
+          - file: 5-Data-Science-In-Cloud/17-Introduction/alps-quiz-17
+            title: "Quiz: Introduction to Data Science in the Cloud"
       - file: 5-Data-Science-In-Cloud/18-Low-Code/README
         sections:
           - file: 5-Data-Science-In-Cloud/18-Low-Code/assignment
+          - file: 5-Data-Science-In-Cloud/18-Low-Code/alps-quiz-18
+            title: 'Quiz: Data Science in the Cloud: The "Low code/No code" way'
       - file: 5-Data-Science-In-Cloud/19-Azure/README
         sections:
           - file: 5-Data-Science-In-Cloud/19-Azure/assignment
           - file: 5-Data-Science-In-Cloud/19-Azure/notebook
+          - file: 5-Data-Science-In-Cloud/19-Azure/alps-quiz-19
+            title: 'Quiz: Data Science in the Cloud: The "Azure ML SDK" way'
   - caption: "Data Science In Wild"
     chapters:
       - file: 6-Data-Science-In-Wild/README
       - file: 6-Data-Science-In-Wild/20-Real-World-Examples/README
         sections:
           - file: 6-Data-Science-In-Wild/20-Real-World-Examples/assignment
+          - file: 6-Data-Science-In-Wild/20-Real-World-Examples/alps-assignment-20
+            title: "Your answers: Explore a Planetary Computer Dataset"
+          - file: 6-Data-Science-In-Wild/20-Real-World-Examples/alps-quiz-20
+            title: "Quiz: Data Science in the Real World"
   - caption: Back Matter
     chapters:
       - file: about-this-book

@@ -56,6 +56,8 @@ Azure Cloud Advocates at Microsoft are pleased to offer a 10-week, 20-lesson cur
 > This gives you everything you need to complete the course with a much faster download.
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
+> **On Alps:** This book runs in your browser, so there is nothing to clone or download. The commands above are for a copy of the repository on your own computer.
+
 **If you wish to have additional translations languages supported are listed [here](https://github.com/Azure/co-op-translator/blob/main/getting_started/supported-languages.md)**
 
 #### Join Our Community 
@@ -73,6 +75,8 @@ Get started with the following resources:
 - [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com?WT.mc_id=academic-77958-bethanycheum) Join a global community of student ambassadors, this could be your way into Microsoft.
 
 # Getting Started
+
+> **On Alps:** You do not need to install anything for this book: each lesson's notebooks run in your browser, and its quizzes are in the book. The guides below (installation, usage, troubleshooting) are for working through the lessons on your own computer.
 
 ## 📚 Documentation
 
@@ -127,6 +131,8 @@ In addition, a low-stakes quiz before a class sets the intention of the student 
 
 > **A note about quizzes**: All quizzes are contained in the Quiz-App folder, for 40 total quizzes of three questions each. They are linked from within the lessons, but the quiz app can be run locally or deployed to Azure; follow the instruction in the `quiz-app` folder. They are gradually being localized.
 
+> **On Alps:** The quizzes are in the book: each lesson's last page, *Quiz:* and the lesson's title, holds its pre-lecture and post-lecture questions as multiple-choice questions. You do not need the quiz app.
+
 ## 🎓 Beginner-Friendly Examples
 
 **New to Data Science?** We've created a special [examples directory](examples/README.md) with simple, well-commented code to help you get started:
@@ -174,12 +180,17 @@ Each example includes detailed comments explaining every step, making it perfect
 
 ## GitHub Codespaces
 
+> **On Alps:** This book's notebooks already run in your browser. A codespace is for working on the repository itself, on GitHub.
+
 Follow these steps to open this sample in a Codespace:
 1. Click the Code drop-down menu and select the Open with Codespaces option.
 2. Select + New codespace at the bottom on the pane.
 For more info, check out the [GitHub documentation](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository#creating-a-codespace).
 
 ## VSCode Remote - Containers
+
+> **On Alps:** Not needed for this book. These steps open the repository in a container on your own computer, with Docker and Visual Studio Code installed.
+
 Follow these steps to open this repo in a container using your local machine and VSCode using  the VS Code Remote - Containers extension:
 
 1. If this is your first time using a development container, please ensure your system meets the pre-reqs (i.e. have Docker installed) in [the getting started documentation](https://code.visualstudio.com/docs/devcontainers/containers#_getting-started).
@@ -195,6 +206,8 @@ Or open a locally cloned or downloaded version of the repository:
 - Select the cloned copy of this folder, wait for the container to start, and try things out.
 
 ## Offline access
+
+> **On Alps:** This book is already online, and its notebooks run in your browser. Docsify serves the upstream website from a copy of the repository on your own computer.
 
 You can run this documentation offline by using [Docsify](https://docsify.js.org/#/). Fork this repo, [install Docsify](https://docsify.js.org/#/quickstart) on your local machine,  then in the root folder of this repo, type `docsify serve`. The website will be served on port 3000 on your localhost: `localhost:3000`.
 

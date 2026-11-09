@@ -1,5 +1,7 @@
 # Tell a story
 
+> **On Alps:** Write your answer in the book, on [Your answers: Tell a story](alps-assignment-16.ipynb).
+
 ## Instructions
 
 Data Science is all about storytelling. Pick any dataset and write a short paper about a story you could tell about it. What do you hope your dataset can reveal? What will you do if its revelations prove problematic? What if your data doesn't easily unlock its secrets? Think of the scenarios your dataset might present and write them down.

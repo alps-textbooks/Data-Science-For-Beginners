@@ -1,5 +1,7 @@
 # Displaying airport data
 
+> **On Alps:** You can do this assignment in your browser, on [Assignment notebook: Displaying airport data](alps-assignment-05.ipynb), where you write and run the queries in Python. The setup steps below are for your own computer.
+
 You have been provided a [database](https://raw.githubusercontent.com/Microsoft/Data-Science-For-Beginners/main/2-Working-With-Data/05-relational-databases/airports.db) built on [SQLite](https://sqlite.org/index.html) which contains information about airports. The schema is displayed below. You will use the [SQLite extension](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite&WT.mc_id=academic-77958-bethanycheum) in [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-77958-bethanycheum) to display information about different cities' airports.
 
 ## Instructions

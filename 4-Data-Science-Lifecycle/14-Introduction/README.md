@@ -6,6 +6,8 @@
 
 ## [Pre-Lecture Quiz](https://ff-quizzes.netlify.app/en/ds/quiz/26)
 
+> **On Alps:** Take this quiz in the book: it is the first part of [Quiz: Introduction to the Data Science Lifecycle](alps-quiz-14.ipynb), this lesson's last page.
+
 At this point you've probably come to the realization that data science is a process. This process can be broken down into 5 stages:
 
 - Capturing
@@ -94,6 +96,8 @@ Explore the [Team Data Science Process lifecycle](https://docs.microsoft.com/en-
 | Image by [Microsoft](https://docs.microsoft.comazure/architecture/data-science-process/lifecycle) | Image by [Data Science Process Alliance](https://www.datascience-pm.com/crisp-dm-2/) |
 
 ## [Post-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/27)
+
+> **On Alps:** Take this quiz in the book: it is the second part of [Quiz: Introduction to the Data Science Lifecycle](alps-quiz-14.ipynb), this lesson's last page.
 
 ## Review & Self Study
 

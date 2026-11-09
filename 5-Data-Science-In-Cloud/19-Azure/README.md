@@ -30,6 +30,8 @@ Table of contents:
 
 ## [Pre-Lecture Quiz](https://ff-quizzes.netlify.app/en/ds/quiz/36)
 
+> **On Alps:** Take this quiz in the book: it is the first part of [Quiz: Data Science in the Cloud: The "Azure ML SDK" way](alps-quiz-19.ipynb), this lesson's last page.
+
 ## 1. Introduction
 
 ### 1.1 What is Azure ML SDK?
@@ -55,6 +57,9 @@ In the [previous lesson](../18-Low-Code/README.md), we saw how to train, deploy 
 Check [here](../18-Low-Code/README.md) the Heart failure prediction project and dataset introduction.
 
 ## 2. Training a model with the Azure ML SDK
+
+> **On Alps:** The steps from here on need an Azure subscription and an Azure ML workspace of your own, and run in Azure, not in this book. This lesson's notebook page shows the same code for reference: its Azure cells do not run here.
+
 ### 2.1 Create an Azure ML workspace
 
 For simplicity, we are going to work on a jupyter notebook. This implies that you already have a Workspace and a compute instance. If you already have a Workspace, you can directly jump to the section 2.3 Notebook creation.
@@ -289,6 +294,8 @@ Congratulations! You just consumed the model deployed and trained on Azure ML wi
 **HINT:** Go to the [SDK documentation](https://docs.microsoft.com/python/api/overview/azure/ml/?view=azure-ml-py?WT.mc_id=academic-77958-bethanycheum&ocid=AID3041109) and type keywords in the search bar like "Pipeline". You should have the `azureml.pipeline.core.Pipeline` class in the search results.
 
 ## [Post-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/37)
+
+> **On Alps:** Take this quiz in the book: it is the second part of [Quiz: Data Science in the Cloud: The "Azure ML SDK" way](alps-quiz-19.ipynb), this lesson's last page.
 
 ## Review & Self Study
 

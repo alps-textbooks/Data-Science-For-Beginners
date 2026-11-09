@@ -10,6 +10,8 @@
 
 ## [Pre-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/0)
 
+> **On Alps:** Take this quiz in the book: it is the first part of [Quiz: Defining Data Science](alps-quiz-01.ipynb), this lesson's last page.
+
 ## What is Data?
 In our everyday life, we are constantly surrounded by data. The text you are reading now is data.  The list of phone numbers of your friends in your smartphone is data, as well as the current time displayed on your watch. As human beings, we naturally operate with data by counting the money we have or by writing letters to our friends.
 
@@ -154,6 +156,8 @@ Visit [`notebook.ipynb`](./notebook.ipynb ':ignore') to read through the code.  
 
 
 ## [Post-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/1)
+
+> **On Alps:** Take this quiz in the book: it is the second part of [Quiz: Defining Data Science](alps-quiz-01.ipynb), this lesson's last page.
 
 ## Assignments
 

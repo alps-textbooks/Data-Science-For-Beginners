@@ -1,5 +1,7 @@
 # Market Research
 
+> **On Alps:** Write your answer in the book, on [Your answers: Market Research](alps-assignment-17.ipynb).
+
 ## Instructions
 
 In this lesson you learned that there are several important cloud providers. Do some market research to discover what each can offer to the Data Scientist. Are the offerings comparable? Write a paper to describe the offerings of three or more of these cloud providers.

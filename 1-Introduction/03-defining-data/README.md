@@ -9,6 +9,9 @@ Data is facts, information, observations and measurements that are used to make 
 This lesson focuses on identifying and classifying data by its characteristics and its sources.
 
 ## [Pre-Lecture Quiz](https://ff-quizzes.netlify.app/en/ds/quiz/4)
+
+> **On Alps:** Take this quiz in the book: it is the first part of [Quiz: Defining Data](alps-quiz-03.ipynb), this lesson's last page.
+
 ## How Data is Described
 
 ### Raw Data
@@ -60,6 +63,8 @@ Kaggle is an excellent source of open datasets. Use the [dataset search tool](ht
 - Is the data structured, unstructured, or semi-structured?
 
 ## [Post-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/5)
+
+> **On Alps:** Take this quiz in the book: it is the second part of [Quiz: Defining Data](alps-quiz-03.ipynb), this lesson's last page.
 
 
 

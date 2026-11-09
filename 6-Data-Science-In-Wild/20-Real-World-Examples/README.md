@@ -13,6 +13,8 @@ In this lesson, we'll explore real-world applications of data science across ind
 
 ## [Pre-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/38)
 
+> **On Alps:** Take this quiz in the book: it is the first part of [Quiz: Data Science in the Real World](alps-quiz-20.ipynb), this lesson's last page.
+
 ## Data Science + Industry
 
 Thanks to the democratization of AI, developers are now finding it easier to design and integrate AI-driven decision-making and data-driven insights into user experiences and development workflows. Here are a few examples of how data science is "applied" to real-world applications across the industry:
@@ -131,6 +133,8 @@ Search for articles that recommend data science projects that are beginner frien
 ## Post-Lecture Quiz
 
 ## [Post-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/39)
+
+> **On Alps:** Take this quiz in the book: it is the second part of [Quiz: Data Science in the Real World](alps-quiz-20.ipynb), this lesson's last page.
 
 ## Review & Self Study
 

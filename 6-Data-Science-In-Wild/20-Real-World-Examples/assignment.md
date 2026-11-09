@@ -1,5 +1,7 @@
 # Explore a Planetary Computer Dataset
 
+> **On Alps:** The Planetary Computer Explorer is a separate website: open it in a new browser tab. Write your answers to the questions under *Your Task* in the book, on [Your answers: Explore a Planetary Computer Dataset](alps-assignment-20.ipynb).
+
 ## Instructions
 
 In this lesson, we talked about various data science application domains - with deep dives into examples related to research, sustainability and digital humanities. In this assignment, you'll explore one of these examples in more detail, and apply some of your learnings around data visualizations and analysis to derive insights about sustainability data.

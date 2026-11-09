@@ -7,6 +7,8 @@
 In this lesson you will explore how to use one of the many available Python libraries to learn how to create interesting visualizations all around the concept of quantity. Using a cleaned dataset about the birds of Minnesota, you can learn many interesting facts about local wildlife. 
 ## [Pre-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/16)
 
+> **On Alps:** Take this quiz in the book: it is the first part of [Quiz: Visualizing Quantities](alps-quiz-09.ipynb), this lesson's last page.
+
 ## Observe wingspan with Matplotlib
 
 An excellent library to create both simple and sophisticated plots and charts of various kinds is [Matplotlib](https://matplotlib.org/stable/index.html). In general terms, the process of plotting data using these libraries includes identifying the parts of your dataframe that you want to target, performing any transforms on that data necessary, assigning its x and y axis values, deciding what kind of plot to show, and then showing the plot. Matplotlib offers a large variety of visualizations, but for this lesson, let's focus on the ones most appropriate for visualizing quantity: line charts, scatterplots, and bar plots.
@@ -196,6 +198,8 @@ In this plot, you can see the range per bird category of the Minimum Length and 
 This bird dataset offers a wealth of information about different types of birds within a particular ecosystem. Search around the internet and see if you can find other bird-oriented datasets. Practice building charts and graphs around these birds to discover facts you didn't realize.
 
 ## [Post-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/17)
+
+> **On Alps:** Take this quiz in the book: it is the second part of [Quiz: Visualizing Quantities](alps-quiz-09.ipynb), this lesson's last page.
 
 ## Review & Self Study
 

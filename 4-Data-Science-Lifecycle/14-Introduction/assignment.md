@@ -1,5 +1,7 @@
 # Assessing a Dataset
 
+> **On Alps:** Write your answers in the book, on [Your answers: Assessing a Dataset](alps-assignment-14.ipynb). This lesson's notebook page loads the taxi data in your browser.
+
 A client has approached your team for help in investigating a taxi customer's seasonal spending habits in New York City. 
 
 They want to know: **Do yellow taxi passengers in New York City tip drivers more in the winter or summer?**

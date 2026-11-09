@@ -6,9 +6,13 @@
 
 ## [Pre-Lecture Quiz](https://ff-quizzes.netlify.app/en/ds/quiz/10)
 
+> **On Alps:** Take this quiz in the book: it is the first part of [Quiz: Working with Data: Non-Relational Data](alps-quiz-06.ipynb), this lesson's last page.
+
 Data is not limited to relational databases. This lesson focuses on non-relational data and will cover the basics of spreadsheets and NoSQL.
 
 ## Spreadsheets
+
+> **On Alps:** Excel is not part of this book: to follow along in a spreadsheet, use a spreadsheet program on your own computer. This lesson's assignment can also be done in Python, in your browser.
 
 Spreadsheets are a popular way to store and explore data because it requires less work to setup and get started. In this lesson you'll learn the basic components of a spreadsheet, as well as formulas and functions. The examples will be illustrated with Microsoft Excel, but most of the parts and topics will have similar names and steps in comparison to other spreadsheet software. 
 
@@ -77,6 +81,8 @@ The fields of interest in this document are: `firstname`, `id`, and `age`. The r
 
 #### Exploring Data with the Cosmos DB Emulator
 
+> **On Alps:** The Cosmos DB Emulator is a program for your own computer; it does not run in this book. The screenshots below show what it does.
+
 You can download and install the emulator [for Windows here](https://aka.ms/cosmosdb-emulator). Refer to this [documentation](https://docs.microsoft.com/en-us/azure/cosmos-db/local-emulator?tabs=ssl-netstd21#run-on-linux-macos) for options on how to run the Emulator for macOS and Linux.
 
 The Emulator launches a browser window, where the Explorer view allows you to explore documents.
@@ -133,6 +139,8 @@ There is a `TwitterData.json` file that you can upload to the SampleDB database.
 Try to run a few select queries to find the documents that have Microsoft in the text field. Hint: try to use the [LIKE keyword](https://docs.microsoft.com/en-us/azure/cosmos-db/sql/sql-query-keywords#using-like-with-the--wildcard-character)
 
 ## [Post-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/11)
+
+> **On Alps:** Take this quiz in the book: it is the second part of [Quiz: Working with Data: Non-Relational Data](alps-quiz-06.ipynb), this lesson's last page.
 
 
 

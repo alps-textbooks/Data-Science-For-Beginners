@@ -14,6 +14,8 @@ In this lesson, you will use a different nature-focused dataset to visualize pro
 
 ## [Pre-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/20)
 
+> **On Alps:** Take this quiz in the book: it is the first part of [Quiz: Visualizing Proportions](alps-quiz-11.ipynb), this lesson's last page.
+
 ## Get to know your mushrooms 🍄
 
 Mushrooms are very interesting. Let's import a dataset to study them:
@@ -171,6 +173,8 @@ In this lesson, you learned three ways to visualize proportions. First, you need
 
 Try recreating these tasty charts in [Charticulator](https://charticulator.com).
 ## [Post-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/21)
+
+> **On Alps:** Take this quiz in the book: it is the second part of [Quiz: Visualizing Proportions](alps-quiz-11.ipynb), this lesson's last page.
 
 ## Review & Self Study
 

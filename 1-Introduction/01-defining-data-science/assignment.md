@@ -1,5 +1,7 @@
 # Assignment: Data Science Scenarios
 
+> **On Alps:** Write your answers in the book, on [Your answers: Data Science Scenarios](alps-assignment-01.ipynb).
+
 In this first assignment, we ask you to think about some real-life process or problem in different problem domains, and how you can improve it using the Data Science process. Think about the following:
 
 1. Which data can you collect?

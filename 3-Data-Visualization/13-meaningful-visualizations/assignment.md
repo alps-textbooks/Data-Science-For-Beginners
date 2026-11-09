@@ -1,5 +1,7 @@
 # Build your own custom vis
 
+> **On Alps:** This project is a web app built with Node.js and npm on your own computer; it does not run in this book.
+
 ## Instructions
 
 Using the code sample in this project to create a social network, mock up data of your own social interactions. You could map your usage of social media or make a diagram of your family members. Create an interesting web app that shows a unique visualization of a social network.

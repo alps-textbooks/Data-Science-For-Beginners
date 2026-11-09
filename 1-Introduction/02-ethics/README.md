@@ -23,6 +23,8 @@ In this lesson, we'll explore the fascinating area of data ethics - from core co
 
 ## [Pre-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/2) 🎯
 
+> **On Alps:** Take this quiz in the book: it is the first part of [Quiz: Introduction to Data Ethics](alps-quiz-02.ipynb), this lesson's last page.
+
 ## Basic Definitions
 
 Let's start by understanding the basic terminology.
@@ -248,6 +250,9 @@ The latter requires [collaborative approaches to defining ethics cultures](https
 
 ---
 ## [Post-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/3) 🎯
+
+> **On Alps:** Take this quiz in the book: it is the second part of [Quiz: Introduction to Data Ethics](alps-quiz-02.ipynb), this lesson's last page.
+
 ## Review & Self Study 
 
 Courses and books help with understanding core ethics concepts and challenges, while case studies and tools help with applied ethics practices in real-world contexts. Here are a few resources to start with.

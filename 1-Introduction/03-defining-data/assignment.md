@@ -1,5 +1,7 @@
 # Classifying Datasets
 
+> **On Alps:** Write your answers in the book, on [Your answers: Classifying Datasets](alps-assignment-03.ipynb).
+
 ## Instructions
 
 Follow the prompts in this assignment to identify and classify the data with one of each of the following data types:

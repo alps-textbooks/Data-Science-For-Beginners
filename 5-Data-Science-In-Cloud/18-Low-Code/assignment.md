@@ -1,5 +1,7 @@
 # Low code/No code Data Science project on Azure ML
 
+> **On Alps:** This project runs in Azure Machine Learning, with an Azure subscription of your own; it does not run in this book.
+
 ## Instructions
 
 We saw how to use the Azure ML platform to train, deploy and consume a model in a Low code/No code fashion. Now look around for some data that you could use to train an other model, deploy it and consume it. You can look for datasets on [Kaggle](https://kaggle.com) and [Azure Open Datasets](https://azure.microsoft.com/services/open-datasets/catalog?WT.mc_id=academic-77958-bethanycheum&ocid=AID3041109).

@@ -11,6 +11,8 @@ Statistics and Probability Theory are two highly related areas of Mathematics th
 
 ## [Pre-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/6)
 
+> **On Alps:** Take this quiz in the book: it is the first part of [Quiz: A Brief Introduction to Statistics and Probability](alps-quiz-04.ipynb), this lesson's last page.
+
 ## Probability and Random Variables
 
 **Probability** is a number between 0 and 1 that expresses how probable an **event** is. It is defined as a number of positive outcomes (that lead to the event), divided by total number of outcomes, given that all outcomes are equally probable. For example, when we roll a dice, the probability that we get an even number is 3/6 = 0.5.
@@ -245,6 +247,8 @@ Use the sample code in the notebook to test other hypothesis that:
 3. Shortstops are taller than second basemen
 
 ## [Post-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/7)
+
+> **On Alps:** Take this quiz in the book: it is the second part of [Quiz: A Brief Introduction to Statistics and Probability](alps-quiz-04.ipynb), this lesson's last page.
 
 ## Review & Self Study
 

@@ -28,6 +28,8 @@ We will focus on a few examples of data processing, instead of giving you full o
 
 ## [Pre-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/12)
 
+> **On Alps:** Take this quiz in the book: it is the first part of [Quiz: Working with Data: Python and the Pandas Library](alps-quiz-07.ipynb), this lesson's last page.
+
 ## Tabular Data and Dataframes
 
 You have already met tabular data when we talked about relational databases. When you have a lot of data, and it is contained in many different linked tables, it definitely makes sense to use SQL for working with it. However, there are many cases when we have a table of data, and we need to gain some **understanding** or **insights** about this data, such as the distribution, correlation between values, etc. In data science, there are a lot of cases when we need to perform some transformations of the original data, followed by visualization. Both those steps can be easily done using Python.
@@ -257,6 +259,8 @@ Here are some examples of exploring data from Image data sources:
 Whether you already have structured or unstructured data, using Python you can perform all steps related to data processing and understanding. It is probably the most flexible way of data processing, and that is the reason the majority of data scientists use Python as their primary tool. Learning Python in depth is probably a good idea if you are serious about your data science journey!
 
 ## [Post-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/13)
+
+> **On Alps:** Take this quiz in the book: it is the second part of [Quiz: Working with Data: Python and the Pandas Library](alps-quiz-07.ipynb), this lesson's last page.
 
 ## Review & Self Study
 

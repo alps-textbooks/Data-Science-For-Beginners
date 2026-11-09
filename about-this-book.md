@@ -4,14 +4,14 @@
 
 **Data Science for Beginners** · *A project-based introduction to data science*
 
-**2Sigma School** · Alps edition · Updated October 2026
+**2Sigma School** · Alps edition · Updated November 2026
 
 This course is a project-based introduction to data science: data collection, preparation, visualization and the data science lifecycle. This Alps edition runs the book's code in the page, with nothing to install.
 
 | At a glance | |
 |---|---|
-| **61 pages** | The book's chapters and sections |
-| **197 code cells** | Python that runs in the browser, apart from any cells shown for reference |
+| **90 pages** | The book's chapters and sections |
+| **215 code cells** | Python that runs in the browser, apart from any cells shown for reference |
 
 ## How to Use It
 
@@ -41,6 +41,8 @@ This edition differs from its source so that the book works on Alps, where its c
 - cells shown for reference, when they need something the browser cannot do
 - cells marked as expected to fail, such as a blank for the reader to fill in
 - corrections to Markdown or code, so that a page renders and runs
+- pages added at the end of a lesson: the lesson's quiz questions as multiple-choice cards, its written assignment as answer cards with a box for each answer, and an assignment on a database or a spreadsheet as a notebook that runs in the browser
+- notes headed **On Alps** beside the steps that need your own computer, an Azure subscription, Excel or Node.js
 
 The numbering of the book's chapters is not affected: this page comes after them. The source above shows the book as its authors published it.
 

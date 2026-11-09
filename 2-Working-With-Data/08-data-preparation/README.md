@@ -6,6 +6,8 @@
 
 ## [Pre-Lecture Quiz](https://ff-quizzes.netlify.app/en/ds/quiz/14)
 
+> **On Alps:** Take this quiz in the book: it is the first part of [Quiz: Working with Data: Data Preparation](alps-quiz-08.ipynb), this lesson's last page.
+
 
 
 Depending on its source, raw data may contain some inconsistencies that will cause challenges in analysis and modeling. In other words, this data can be categorized as “dirty” and will need to be cleaned up. This lesson focuses on techniques for cleaning and transforming the data to handle challenges of missing, inaccurate, or incomplete data. Topics covered in this lesson will utilize Python and the Pandas library and will be [demonstrated in the notebook](notebook.ipynb) within this directory.
@@ -318,6 +320,8 @@ letters	numbers
 All of the discussed materials are provided as a [Jupyter Notebook](https://github.com/microsoft/Data-Science-For-Beginners/blob/main/2-Working-With-Data/08-data-preparation/notebook.ipynb). Additionally, there are exercises present after each section, give them a try!
 
 ## [Post-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/15)
+
+> **On Alps:** Take this quiz in the book: it is the second part of [Quiz: Working with Data: Data Preparation](alps-quiz-08.ipynb), this lesson's last page.
 
 
 

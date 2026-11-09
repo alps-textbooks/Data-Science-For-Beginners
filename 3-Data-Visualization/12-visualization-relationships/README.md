@@ -12,6 +12,8 @@ It will be interesting to visualize the relationship between a given state's pro
 
 ## [Pre-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/22)
 
+> **On Alps:** Take this quiz in the book: it is the first part of [Quiz: Visualizing Relationships: All About Honey 🍯](alps-quiz-12.ipynb), this lesson's last page.
+
 In this lesson, you can use Seaborn, which you have used before, as a good library to visualize relationships between variables. Particularly interesting is the use of Seaborn's `relplot` function that allows scatter plots and line plots to quickly visualize '[statistical relationships](https://seaborn.pydata.org/tutorial/relational.html?highlight=relationships)', which allow the data scientist to better understand how variables relate to each other.
 
 ## Scatterplots
@@ -167,6 +169,8 @@ Go, bees, go!
 In this lesson, you learned a bit more about other uses of scatterplots and line grids, including facet grids. Challenge yourself to create a facet grid using a different dataset, maybe one you used prior to these lessons. Note how long they take to create and how you need to be careful about how many grids you need to draw using these techniques.
 
 ## [Post-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/23)
+
+> **On Alps:** Take this quiz in the book: it is the second part of [Quiz: Visualizing Relationships: All About Honey 🍯](alps-quiz-12.ipynb), this lesson's last page.
 
 ## Review & Self Study
 

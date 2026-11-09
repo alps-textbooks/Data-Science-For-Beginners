@@ -8,6 +8,8 @@ Chances are you have used a spreadsheet in the past to store information. You ha
 
 ## [Pre-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/8)
 
+> **On Alps:** Take this quiz in the book: it is the first part of [Quiz: Working with Data: Relational Databases](alps-quiz-05.ipynb), this lesson's last page.
+
 ## It all starts with tables
 
 A relational database has at its core tables. Just as with the spreadsheet, a table is a collection of columns and rows. The row contains the data or information we wish to work with, such as the name of a city or the amount of rainfall. The columns describe the data they store.
@@ -169,6 +171,8 @@ There are numerous relational databases available on the internet. You can explo
 ## Post-Lecture Quiz
 
 ## [Post-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/9)
+
+> **On Alps:** Take this quiz in the book: it is the second part of [Quiz: Working with Data: Relational Databases](alps-quiz-05.ipynb), this lesson's last page.
 
 ## Review & Self Study
 
